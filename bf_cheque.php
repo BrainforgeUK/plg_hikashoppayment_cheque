@@ -38,7 +38,7 @@ class plgHikashoppaymentBF_Cheque extends hikashopPaymentPlugin {
 	function getPaymentDefaultValues(&$element) {
 		$element->payment_name='Cheque';
 		$element->payment_description='You can pay by sending us a cheque.';
-		$element->payment_images='Check';
+		$element->payment_images='blank-cheque';
 
 		$element->payment_params->information='You can make out your cheque to: XXXX XXXX<br/>
 			<br/>
