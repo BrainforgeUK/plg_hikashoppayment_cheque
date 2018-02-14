@@ -31,6 +31,6 @@
 	</config>
 
   <updateservers>
-      <server type="extension" priority="1" name="Hikashoppayment - Cheque Payment by BrainforgeUK">https://brainforge.co.uk/media/com_bfupdater/plg_bfcheque.xml</server>
+      <server type="extension" priority="1" name="Hikashoppayment - Cheque Payment by BrainforgeUK">https://brainforge.co.uk/media/com_bfupdater/plg_hikashoppayment_bfcheque.xml</server>
   </updateservers>
 </extension>
