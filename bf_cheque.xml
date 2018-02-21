@@ -2,7 +2,7 @@
 <extension type="plugin" version="2.5" method="upgrade" group="hikashoppayment">
 	<name>Hikashoppayment - Cheque Payment by BrainforgeUK</name>
 	<creationDate>17 March 2011</creationDate>
-	<version>4.0.0</version>
+	<version>4.0.1</version>
 	<author>Jonathan Brain</author>
 	<authorEmail>brainforge@btinternet.com</authorEmail>
 	<authorUrl>http://www.brainforge.co.uk</authorUrl>
@@ -31,6 +31,8 @@
 	</config>
 
   <updateservers>
-      <server type="extension" priority="1" name="Hikashoppayment - Cheque Payment by BrainforgeUK">https://brainforge.co.uk/media/com_bfupdater/plg_hikashoppayment_bfcheque.xml</server>
+      <server type="extension" priority="1" name="Hikashoppayment - Cheque Payment by BrainforgeUK">
+				https://brainforge.co.uk/component/bfupdater?element=plg_hikashoppayment_bfcheque.xml
+			</server>
   </updateservers>
 </extension>
